@@ -63,11 +63,11 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia GNU General Public License v3.0. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
 
-Para cualquier consulta o sugerencia, puedes contactarme a través de mi correo electrónico: tu-email@ejemplo.com.
+Para cualquier consulta o sugerencia, puedes contactarme a través de mi correo electrónico: chrisurpineda@gmail.com.
 
 ---
 
